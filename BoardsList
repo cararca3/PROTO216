@@ -1,0 +1,6 @@
+This list contains all the boards officially developed so far.
+
+Part number      Date                   Size      Board name                            Description
+#0               December 2025          A4        PROTO216 BREADBOARD                   Base board, through-hole
+#1               November 2025          A9        PERFBOARD                             Perfboard for prototyping
+#2               November 2025          A8        ARDUINO SHIELD PROTO                  Arduino-size perfboard for prototyping, dual use as an Arduino shield and Arduino pinout
