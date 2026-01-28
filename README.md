@@ -1,6 +1,6 @@
 Welcome to PROTO216 
 
-PROTO216 is a concept of protoboard design based on ISO 216 standard. The purpose of this concept is providing an alternative to traditional breadboards for prototyping, and increasing compatibility with other standards like Arduino.
+PROTO216 is a concept of protoboard design based on ISO 216 standard (yes, the same one as the A4-size paper sheets). The purpose of this concept is providing an alternative to traditional breadboards for prototyping, and increasing compatibility with other standards like Arduino, as well as using very affordable office articles for assembly or transportation (plastic sleeves, envelopes, folders...).
 
 Thanks to PCBWay for the manufacturing of first PCB designs. I'm manufacturing PCB's in that company since 2015 and have no complaints so far. Finish quality is pretty good and prices are very acceptable, around $0.5 for each A8 or A9 size PCB ($5 for 10 PCB's, up to 100x100mm). Shipping is very fast and you'll be able to test your prototypes almost immediately.
 
