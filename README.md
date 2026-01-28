@@ -8,7 +8,8 @@ Thanks to PCBWay for the manufacturing of first PCB designs. I'm manufacturing P
 
 If you want to help me in this project, please feel free to make an order from a new account using my referral link: https://pcbway.com/g/KJUc0I
 That would help me a lot to develop and manufacture new modules :)
-You can also directly order the PCB's from their website. You'll find all the links in the Readme file of every board.
+
+You can directly order the PCB's from their website too. You'll find all the links in the Readme file of every board.
 
 First boards were received between December 2025 and 2026, now being tested with different modules:
 
