@@ -26,6 +26,6 @@ Finish quality is great for the price
 At this moment, the design concept is being implemented with different modules:
 ![PXL_20260128_100230046](https://github.com/user-attachments/assets/27fbb0f1-d535-4ef3-97d4-71e3e4addbca)
 
-A view from the bootom side. Notice the rubber pads to protect the working surface from the soldered pins:
+A view from the bottom side. Notice the rubber pads to protect the working surface from the soldered pins:
 ![PXL_20260128_100307114](https://github.com/user-attachments/assets/11ef8ecb-d25d-4d90-856b-0c377a9163ea)
 
