@@ -5,3 +5,6 @@ Part number      Date                   Size      Board name                    
 #1               November 2025          A9        A9 PERFBOARD                          Perfboard for prototyping
 #2               November 2025          A8        ARDUINO SHIELD PROTO                  Arduino-size perfboard for prototyping, dual use as an Arduino shield and Arduino pinout
 #3               January 2026           A8        A8 POWER IN MODULE                    Power input module to use external PSU's with banana cables
+#4               January 2026           A9        A9 RJ45 BOARD                         Two RJ45 sockets to interconnect modules using Ethernet cables
+#5               February 2026          A9        216DUINO                              Arduino Uno in a PROTO216 A9 form factor
+#6               February 2026          A9        A9 ANALOG TEC CTRL                    Analog thermo-electric cooler controller, for Peltier-element temperature control
