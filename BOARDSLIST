@@ -9,3 +9,4 @@ Part number      Date                   Size      Board name                    
 #5               February 2026          A9        216DUINO                              Arduino Uno in a PROTO216 A9 form factor
 #6               February 2026          A9        A9 ANALOG TEC CTRL                    Analog thermo-electric cooler controller, for Peltier-element temperature control
 #7               March 2026             A8        A8 PERFBOARD                          Perfboard for prototyping
+#8               March 2026             A9        USB-C PSU                             Adjustable USB-C power supply from 5V to 20V
