@@ -1,4 +1,4 @@
-Welcome to PROTO216 
+Welcome to PROTO216
 
 PROTO216 is a concept of protoboard design based on ISO 216 standard (yes, the same one as the A4-size paper sheets). The purpose of this concept is providing an alternative to traditional breadboards for prototyping, and increasing compatibility with other standards like Arduino, as well as using very affordable office articles for assembly or transportation (plastic sleeves, envelopes, folders...).
 
@@ -30,3 +30,4 @@ At this moment, the design concept is being implemented with different modules:
 A view from the bottom side. Notice the rubber pads to protect the working surface from the soldered pins:
 ![PXL_20260128_100307114](https://github.com/user-attachments/assets/11ef8ecb-d25d-4d90-856b-0c377a9163ea)
 
+Divide et impera
