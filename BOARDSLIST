@@ -1,12 +1,17 @@
 This list contains all the boards officially developed so far.
 
 Part number      Date                   Size      Board name                            Description
-#0               December 2025          A4        PROTO216 BREADBOARD                   Base board, through-hole
+#0               December 2025          A4        A4 PROTO216 BREADBOARD                A4-size base board, through-hole
 #1               November 2025          A9        A9 PERFBOARD                          Perfboard for prototyping
 #2               November 2025          A8        ARDUINO SHIELD PROTO                  Arduino-size perfboard for prototyping, dual use as an Arduino shield and Arduino pinout
 #3               January 2026           A8        A8 POWER IN MODULE                    Power input module to use external PSU's with banana cables
 #4               January 2026           A9        A9 RJ45 BOARD                         Two RJ45 sockets to interconnect modules using Ethernet cables
-#5               February 2026          A9        216DUINO                              Arduino Uno Rev3 in a PROTO216 A9 form factor
+#5               February 2026          A9        216DUINO R3                           Arduino Uno Rev3 in a PROTO216 A9 form factor
 #6               February 2026          A9        A9 ANALOG TEC CTRL                    Analog thermo-electric cooler controller, for Peltier-element temperature control
 #7               March 2026             A8        A8 PERFBOARD                          Perfboard for prototyping
 #8               March 2026             A9        USB-C PSU                             Adjustable USB-C power supply from 5V to 20V
+#9               March 2026             A9        216DUINO R4                           Arduino Uno Rev4 in a PROTO216 A9 form factor
+#10              April 2026             A5        A5 PROTO216 BREADBOARD                A5-size base board, through-hole
+#11              April 2026             A9        A9 OLED I2C LITE                      OLED I2C module for a commercial 0.96" SSD1306 display
+#12              April 2026             A9        A9 RGB MODULE                         RGB lamp based on WS2812B LEDs
+#13              April 2026             A9        A9 LED MATRIX                         Analog 96-LED matrix (12x8)
