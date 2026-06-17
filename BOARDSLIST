@@ -1,17 +1,23 @@
-This list contains all the boards officially developed so far.
+This list contains all the boards officially developed so far, or going to be released in a future.
 
-Part number      Date                   Size      Board name                            Description
-#0               December 2025          A4        A4 PROTO216 BREADBOARD                A4-size base board, through-hole
-#1               November 2025          A9        A9 PERFBOARD                          Perfboard for prototyping
-#2               November 2025          A8        ARDUINO SHIELD PROTO                  Arduino-size perfboard for prototyping, dual use as an Arduino shield and Arduino pinout
-#3               January 2026           A8        A8 POWER IN MODULE                    Power input module to use external PSU's with banana cables
-#4               January 2026           A9        A9 RJ45 BOARD                         Two RJ45 sockets to interconnect modules using Ethernet cables
-#5               February 2026          A9        216DUINO R3                           Arduino Uno Rev3 in a PROTO216 A9 form factor
-#6               February 2026          A9        A9 ANALOG TEC CTRL                    Analog thermo-electric cooler controller, for Peltier-element temperature control
-#7               March 2026             A8        A8 PERFBOARD                          Perfboard for prototyping
-#8               March 2026             A9        USB-C PSU                             Adjustable USB-C power supply from 5V to 20V
-#9               March 2026             A9        216DUINO R4                           Arduino Uno Rev4 in a PROTO216 A9 form factor
-#10              April 2026             A5        A5 PROTO216 BREADBOARD                A5-size base board, through-hole
-#11              April 2026             A9        A9 OLED I2C LITE                      OLED I2C module for a commercial 0.96" SSD1306 display
-#12              April 2026             A9        A9 RGB MODULE                         RGB lamp based on WS2812B LEDs
-#13              April 2026             A9        A9 LED MATRIX                         Analog 96-LED matrix (12x8)
+Part number      Date                   Size      Board name                            Description                                                                                    Status
+#0               December 2025          A4        A4 PROTO216 BREADBOARD                A4-size base board, through-hole                                                               Released
+#1               November 2025          A9        A9 PERFBOARD                          Perfboard for prototyping                                                                      Released
+#2               November 2025          A8        ARDUINO SHIELD PROTO                  Arduino-size perfboard for prototyping, dual use as an Arduino shield and Arduino pinout       Released
+#3               January 2026           A8        A8 POWER IN MODULE                    Power input module to use external PSU's with banana cables                                    Released
+#4               January 2026           A9        A9 RJ45 BOARD                         Two RJ45 sockets to interconnect modules using Ethernet cables                                 Released
+#5               February 2026          A9        A9 216DUINO R3                        Arduino Uno Rev3 in a PROTO216 A9 form factor                                                  Released
+#6               February 2026          A9        A9 ANALOG TEC CTRL                    Analog thermo-electric cooler controller, for Peltier-element temperature control              Under review
+#7               March 2026             A8        A8 PERFBOARD                          Perfboard for prototyping                                                                      Released
+#8               March 2026             A9        A9 USB-C PSU                          Adjustable USB-C power supply from 5V to 20V                                                   Under review
+#9               March 2026             A9        A9 216DUINO R4                        Arduino Uno Rev4 in a PROTO216 A9 form factor                                                  Released
+#10              April 2026             A5        A5 PROTO216 BREADBOARD                A5-size base board, through-hole                                                               Released
+#11              April 2026             A9        A9 OLED I2C LITE                      OLED I2C module for a commercial 0.96" SSD1306 display                                         Released
+#12              April 2026             A9        A9 RGB MODULE                         RGB lamp based on WS2812B LEDs                                                                 Released
+#13              April 2026             A8        A8 PERFBOARD PROTO                    Perfboard for prototyping with socket for 170-pin breadboard                                   Released
+#14              April 2026             A9        A9 LED MATRIX                         Analog 96-LED matrix (12x8)                                                                    Under review
+#15              April 2026             A9        A9 RP2350/4                           Raspberry Pi Pico 2 in a PROTO216 A9 form factor                                               Under review
+#16              June 2026              A9        A9 LED MATRIX I2C                     Analog 96-LED matrix (12x8) with I2C control                                                   Under review
+#17              To be released         A7        A7 PERFBOARD PROTO                    Module for prototyping with socket for 400-pin breadboard                                      In design
+#18              To be released         A8        A8 OSCILLOSCOPE                       Oscilloscope for PROTO216 on-board diagnosis and test                                          In design
+#19              To be released         A8        A8 SIGNAL GENERATOR                   Signal generator for PROTO216 on-board diagnosis and test                                      In design
