@@ -1,21 +1,14 @@
-MIT License
+## License
 
-Copyright (c) 2025 Carlos Arcos
+This project is open-source hardware. We believe in the power of collaboration and the importance of keeping modular design standards accessible to everyone.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**PROTO216** designs, documentation, and associated files are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### Why CC BY-SA?
+By choosing this license, we ensure that:
+*   **Attribution:** You are free to use, modify, and build upon these designs, provided that proper credit is given to the original work.
+*   **ShareAlike:** Any modifications or derivative works you create must also be shared under the same open terms. This helps keep the ecosystem free and prevents fragmentation of the standard.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+We encourage you to experiment, iterate, and share your own modules. Whether you are improving an existing board or creating a new form-factor, your contributions help grow the PROTO216 community.
+
+For more information, visit the [official CC BY-SA 4.0 summary](https://creativecommons.org/licenses/by-sa/4.0/).
