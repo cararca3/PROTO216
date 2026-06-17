@@ -18,6 +18,6 @@ Part number      Date                   Size      Board name                    
 #14              April 2026             A9        A9 LED MATRIX                         Analog 96-LED matrix (12x8)                                                                    Under review
 #15              April 2026             A9        A9 RP2350/4                           Raspberry Pi Pico 2 in a PROTO216 A9 form factor                                               Under review
 #16              June 2026              A9        A9 LED MATRIX I2C                     Analog 96-LED matrix (12x8) with I2C control                                                   Under review
-#17              To be released         A7        A7 PERFBOARD PROTO                    Module for prototyping with socket for 400-pin breadboard                                      In design
-#18              To be released         A8        A8 OSCILLOSCOPE                       Oscilloscope for PROTO216 on-board diagnosis and test                                          In design
-#19              To be released         A8        A8 SIGNAL GENERATOR                   Signal generator for PROTO216 on-board diagnosis and test                                      In design
+#??              To be released         A7        A7 PERFBOARD PROTO                    Module for prototyping with socket for 400-pin breadboard                                      In design
+#??              To be released         A8        A8 OSCILLOSCOPE                       Oscilloscope for PROTO216 on-board diagnosis and test                                          In design
+#??              To be released         A8        A8 SIGNAL GENERATOR                   Signal generator for PROTO216 on-board diagnosis and test                                      In design
